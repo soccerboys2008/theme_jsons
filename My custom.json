@@ -1,0 +1,19 @@
+{
+    "manifest": {
+        "author": "AvadxFeirm#6423",
+        "name": "My custom",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/i.imgur.com\/DKUPqa2.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 0,
+        "statusbar": 0
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
