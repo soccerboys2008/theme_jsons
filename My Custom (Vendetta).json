@@ -1,0 +1,16 @@
+{
+    "name": "My Custom",
+    "description": "My Theme",
+    "authors": [
+        {
+            "name": "AvadxFeirm"
+            "id": "",
+        }
+    ],
+    "background" {
+        "blur": 0,
+        "url": "https://github.com/soccerboys2008/theme_jsons/blob/main/images/demon_slayer_phone_final.png?raw=true",
+        "alpha": 5,
+    },
+    "spec": 2,
+}
