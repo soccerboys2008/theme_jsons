@@ -7,6 +7,11 @@
             "id": "563593619672399875"
         }
     ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#07001c"
+        ]
+    },
     "background": {
         "blur": 0,
         "url": "https://github.com/soccerboys2008/theme_jsons/blob/main/images/demon_slayer_phone_final.png?raw=true",
